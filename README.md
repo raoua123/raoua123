@@ -71,7 +71,10 @@ I'm continuously learning, experimenting with new technologies, and working on p
 <p align="center">
   <img src="https://pin.it/3WNRhjBxF" width="100%" alt="Profile decoration"/>
 </p>
+## Thanks for visiting my profile! 💙
 
-<h2 align="center">Thanks for visiting my profile! 💙</h2>
+<p align="center">
+  <img width="100%" src="https://media.tenor.com/voZ3SYsc2gXAAAAC/tenor.gif" alt="Profile decoration GIF"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
