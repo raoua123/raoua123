@@ -49,6 +49,7 @@ I'm continuously learning, experimenting with new technologies, and working on p
 </p>
 
 ---
+---
 
 ### 🌐 Let's Connect
 
@@ -64,17 +65,12 @@ I'm continuously learning, experimenting with new technologies, and working on p
   </a>
 </div>
 
-<div align="center">
-  <br>
-  ###  Visitors Count
+<h2 align="center">Thanks for visiting my profile! 💙</h2>
 
 <p align="center">
-  <img src="https://pin.it/3WNRhjBxF" width="100%" alt="Profile decoration"/>
+  <img src="https://media1.tenor.com/m/92MplgQwb80AAAAd/cat-meme-wave-emoji.gif" width="100%" alt="Waving cat GIF">
 </p>
-### Thanks for visiting my profile! 💙
 
-<p align="center">
-  <img src="https://tenor.com/view/cat-meme-wave-emoji-cat-wave-cat-wave-gif-17826137474354671565" width="100%" alt="Cat waving GIF">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
