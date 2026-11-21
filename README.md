@@ -66,15 +66,12 @@ I'm continuously learning, experimenting with new technologies, and working on p
 
 <div align="center">
   <br>
-  <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/raoua123/count.svg" />
-</div>
+  ###  Visitors Count
+
+<p align="center">
+  <img src="https://pin.it/3WNRhjBxF" width="100%" alt="Profile decoration"/>
+</p>
 
 <h2 align="center">Thanks for visiting my profile! 💙</h2>
-
-<!-- Decorative Pinterest image -->
-<p align="center">
-  <img width="100%" src="https://pin.it/3WNRhjBxF" alt="Profile decoration"/>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
