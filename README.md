@@ -71,10 +71,10 @@ I'm continuously learning, experimenting with new technologies, and working on p
 <p align="center">
   <img src="https://pin.it/3WNRhjBxF" width="100%" alt="Profile decoration"/>
 </p>
-## Thanks for visiting my profile! 💙
+### Thanks for visiting my profile! 💙
 
 <p align="center">
-  <img width="100%" src="https://media.tenor.com/voZ3SYsc2gXAAAAC/tenor.gif" alt="Profile decoration GIF"/>
+  <img src="https://tenor.com/view/cat-meme-wave-emoji-cat-wave-cat-wave-gif-17826137474354671565" width="100%" alt="Cat waving GIF">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
