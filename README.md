@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raoua;Software+Engineering+%7C+Data+Science;Exploring+AI+and+Machine+Learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">
-   Software Engineering Graduate | Data Science Master's Student
+   Software Engineering Student
 </h3>
 
 Hi! I'm Raoua, a Software Engineering student passionate about building creative and practical software solutions.
