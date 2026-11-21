@@ -70,7 +70,7 @@ I'm continuously learning, experimenting with new technologies, and working on p
 <h2 align="center">Thanks for visiting my profile! 💙</h2>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/92MplgQwb80AAAAd/cat-meme-wave-emoji.gif" width="100%" alt="Waving cat GIF">
+  <img src="https://media1.tenor.com/m/92MplgQwb80AAAAd/cat-meme-wave-emoji.gif" width="300" alt="Waving cat GIF">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
