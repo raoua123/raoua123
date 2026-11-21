@@ -6,13 +6,11 @@
    Software Engineering Graduate | Data Science Master's Student
 </h3>
 
-Hi! I'm Raoua, a Software Engineering graduate currently pursuing a Master's degree in Data Science.
+Hi! I'm Raoua, a Software Engineering student passionate about building creative and practical software solutions.
 
-I have a background in full-stack development, API design, and database management, alongside a growing interest and hands-on experience in **Artificial Intelligence, Machine Learning, and Data Science**.
+I have a foundation in full-stack development, API design, and database management, with a growing curiosity for **Artificial Intelligence, Machine Learning, and Data Science**, which I enjoy exploring through projects and experimentation.
 
-I enjoy exploring how technology and data can be used to solve real-world problems, whether through developing web applications, building intelligent solutions, experimenting with ML models, or analyzing data to uncover meaningful insights.
-
-I'm continuously learning, experimenting with new technologies, and working on projects that help me grow both as a software developer and as an aspiring data scientist. Always curious, always building, and always open to new challenges!
+I'm always eager to learn new technologies, expand my skills, and turn ideas into meaningful projects. One challenge at a time! 🚀
 
 ---
 
