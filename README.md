@@ -1,67 +1,80 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raoua;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raoua;Software+Engineering+%7C+Data+Science;Exploring+AI+and+Machine+Learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">
-    Software Engineering Student
+   Software Engineering Graduate | Data Science Master's Student
 </h3>
 
-Hi! I'm a Software Engineering student with hands-on experience in full-stack web development, API design, database management, and machine learning. I enjoy building clean, maintainable projects across academic work and fintech/startup internships — from Laravel and Symfony backends to React frontends and Python-based ML features. I'm always looking to grow my skills and take on new challenges in backend architecture and software development.
+Hi! I'm Raoua, a Software Engineering graduate currently pursuing a Master's degree in Data Science.
 
-### 📈 GitHub Activity Graph:
+I have a background in full-stack development, API design, and database management, alongside a growing interest and hands-on experience in **Artificial Intelligence, Machine Learning, and Data Science**.
+
+I enjoy exploring how technology and data can be used to solve real-world problems, whether through developing web applications, building intelligent solutions, experimenting with ML models, or analyzing data to uncover meaningful insights.
+
+I'm continuously learning, experimenting with new technologies, and working on projects that help me grow both as a software developer and as an aspiring data scientist. Always curious, always building, and always open to new challenges!
+
+---
+
+### 📈 GitHub Activity & Statistics
 
 <p align="center">
   <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=raoua123&theme=aura&hide_border=false&border_radius=10" />
+    <img height="150em" src="https://streak-stats.demolab.com?user=raoua123&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoua123&theme=aura"
-    />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoua123&theme=aura" />
+  </a>
   <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoua123&theme=aura"
-    />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoua123&theme=aura" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raoua123&theme=aura"
-    />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raoua123&theme=aura" />
+  </a>
   <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raoua123&theme=aura&utcOffset=1"
-    />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raoua123&theme=aura&utcOffset=1" />
+  </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/raoua123">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raoua123&theme=aura"
-    />
+  <a href="https://github.com/raoua123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raoua123&theme=aura" />
+  </a>
 </p>
+
+---
+
+### 🌐 Let's Connect
 
 <div align="center">
-  <a href="mailto:raouabenhamed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raoua-ben-hamed-835626368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/raoua123" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:raouabenhamed@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/raoua-ben-hamed-835626368/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/raoua123" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/raoua123/count.svg" /></p>
-<br></div>
+  <br>
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/raoua123/count.svg" />
+</div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<h2 align="center">Thanks for visiting my profile! 💙</h2>
+
+<!-- Decorative Pinterest image -->
+<p align="center">
+  <img width="100%" src="https://pin.it/3WNRhjBxF" alt="Profile decoration"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
